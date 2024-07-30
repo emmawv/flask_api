@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-The objective of this project is to program an API that allows us to obtain data used to train a machine learning model, as well as the predictions of sai model.
+The objective of this project is to program an API that allows us to obtain data used to train a machine learning model, as well as the predictions of said model.
 
 The API will be set up using Flask and will consist of the following endpoints:
 
