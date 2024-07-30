@@ -12,7 +12,7 @@ The API will be set up using Flask and will consist of the following endpoints:
 
 * Just the test data
 
-* A sepcific observation __n__ from the data
+* A specific observation __n__ from the data
 
 * A query with specific filters
 
